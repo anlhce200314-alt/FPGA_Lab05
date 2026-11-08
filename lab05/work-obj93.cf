@@ -1,0 +1,13 @@
+v 4
+file . ".\sim\lab05_tb.vhd" "803b4914fa187d80b2cc02d17f1b89fd75668d00" "20261108083240.685":
+  entity lab05_tb at 1( 0) + 0 on 17;
+  architecture sim of lab05_tb at 7( 91) + 0 on 18;
+file . ".\src\lab05.vhd" "f94f798a452ce2d9a455b83794905389f2404163" "20261108083240.685":
+  entity lab05 at 1( 0) + 0 on 15;
+  architecture rtl of lab05 at 15( 285) + 0 on 16;
+file . ".\src\blink.vhd" "6daf4398e94d81b075d52734bb916e9595919b98" "20261108083240.685":
+  entity blink at 1( 0) + 0 on 13;
+  architecture rtl of blink at 11( 201) + 0 on 14;
+file . ".\src\chia.vhd" "7fd10d6fa478f492181a6f27fcde57663cbe7c91" "20261108083240.684":
+  entity chia at 1( 0) + 0 on 11;
+  architecture rtl of chia at 15( 276) + 0 on 12;
