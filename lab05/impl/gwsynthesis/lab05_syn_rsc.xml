@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="lab05" Register="1" Lut="1" T_Register="23(1)" T_Lut="13(1)">
+ <SubModule name="blink" Register="22" Lut="8" T_Register="22(22)" T_Lut="8(8)"/>
+ <SubModule name="chia" Lut="4" T_Lut="4(4)"/>
+</Module>

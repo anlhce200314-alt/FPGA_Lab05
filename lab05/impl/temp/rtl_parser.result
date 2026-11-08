@@ -1,0 +1,38 @@
+[
+ {
+  "InstFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/sim/lab05_tb.vhd",
+  "InstLine" : 4,
+  "InstName" : "lab05_tb",
+  "ModuleFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/sim/lab05_tb.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "lab05_tb",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/sim/lab05_tb.vhd",
+    "InstLine" : 22,
+    "InstName" : "DUT",
+    "ModuleFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/lab05.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "lab05",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/lab05.vhd",
+      "InstLine" : 19,
+      "InstName" : "blink",
+      "ModuleFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/blink.vhd",
+      "ModuleLine" : 4,
+      "ModuleName" : "blink"
+     },
+     {
+      "InstFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/lab05.vhd",
+      "InstLine" : 34,
+      "InstName" : "chia",
+      "ModuleFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/chia.vhd",
+      "ModuleLine" : 4,
+      "ModuleName" : "chia"
+     }
+    ]
+   }
+  ]
+ }
+]

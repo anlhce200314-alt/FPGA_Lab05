@@ -1,0 +1,33 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/lab05.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/sim/lab05_tb.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/blink.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/src/chia.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/+Study/FPTU/Subject/4_FA26/FAP201/.inter/l5/lab05/impl/temp/rtl_parser.result",
+ "Top" : "lab05",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
